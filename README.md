@@ -26,4 +26,4 @@ Many companies struggle with customer retention. This project uses an online dat
 * Propose action items based on data insights
 
 # :clipboard: Dataset
-* Telco Customer Churn Dataset is used in this project. This dataset is open to use on Kaggle which contains some customer demographics, services signed up for, account information, and whether the customer churned or not.
+* Telco Customer Churn Dataset is used in this project. This dataset is open to use on Kaggle, which contains some customer demographics, services signed up for, account information, and whether the customer churned or not.
