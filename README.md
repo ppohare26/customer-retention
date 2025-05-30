@@ -27,3 +27,21 @@ Many companies struggle with customer retention. This project uses an online dat
 
 # :clipboard: Dataset
 * The Telco Customer Churn Dataset is used in this project. This dataset is open to use on Kaggle, which contains some customer demographics, services signed up for, account information, and whether the customer churned or not.
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+
+# :bookmark: Step by Step Plan
+1. Project Management Foundation
+   * Project Charter
+   * WBS and Gantt Chart
+   * Risk Assessment
+   * KPIs
+  
+2. Data Wrangling & EDA
+   * Clean the dataset
+   * Perform exploratory data analysis (EDA)
+   * Correlation analysis and hypothesis testing
+
+3. Reporting & Recommendations
+   * Create a dashboard
+   * Prepare final report
+   * Suggest strategies
