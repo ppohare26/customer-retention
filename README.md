@@ -69,10 +69,31 @@ https://www.kaggle.com/datasets/blastchar/telco-customer-churn
   1. Churn Distribution: Count of churned vs. retained customers.
   2. Boxplot of Monthly Charges vs. Churn: Churn is higher with higher charges.
   3. Correlation Heatmap: MonthlyCharges, Contract type, and OnlineSecurity show strong relationships with churn.
-  4. Tenure vs. Churn: Interactive Plotly chart shows churn decreases with customer tenure.
+  4. Tenure vs. Churn: An interactive Plotly chart shows churn decreases with customer tenure.
 * Visuals were saved in the charts/ directory, including an interactive tenure_churn_plotly.html.
 
 ## Main.py – Automation Script
 * Runs the above steps in sequence.
 * Ensures necessary directories (data/, charts/) are created.
 * Useful for quick reruns or integrations into a larger project pipeline.
+
+# :bookmark: Key Findings from the Analysis
+1. Contract Type Matters: Customers on month-to-month contracts churn the most. Two-year contracts drastically reduce churn rates.
+
+2. Electronic Check Payment Method is Risky: Customers who pay via electronic checks have significantly higher churn rates, suggesting dissatisfaction or lack of commitment.
+
+3. High Monthly Charges Correlate with Churn: The higher the monthly fee, the more likely a customer is to churn, especially without bundled value services.
+
+4. Customer Tenure is Crucial: Newer customers (low tenure) are more likely to leave. Churn decreases significantly with time.
+
+5. Security and Support Services Reduce Churn: Availability of online security, device protection, and tech support correlates with lower churn rates.
+
+# :bookmark: Recommendations for Customer Retention
+
+* Incentivize Long-Term Contracts: Offer discounts or perks for 1–2 year subscriptions.
+* Bundle Support Services: Provide online security and tech support at a discount for newer customers.
+* Follow-Up on High-Paying Customers: Offer loyalty benefits or periodic check-ins to those paying higher monthly rates.
+* Improve Onboarding and Early Engagement: Implement welcome campaigns and dedicated onboarding for new clients (<6 months).
+* Rethink Electronic Check Payments: Push for auto-pay credit card or digital wallet options with benefits.
+
+
