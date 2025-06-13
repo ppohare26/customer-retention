@@ -96,4 +96,31 @@ https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 * Improve Onboarding and Early Engagement: Implement welcome campaigns and dedicated onboarding for new clients (<6 months).
 * Rethink Electronic Check Payments: Push for auto-pay credit card or digital wallet options with benefits.
 
+# :bookmark: Power BI Dashboard
+
+
+<img width="1282" alt="Screenshot 2025-06-12 at 9 52 41 PM" src="https://github.com/user-attachments/assets/9e1fa969-5633-4432-a142-45daee46fbe4" />
+
+<img width="1288" alt="Screenshot 2025-06-12 at 5 45 23 PM" src="https://github.com/user-attachments/assets/9005505f-61a2-474f-acbe-d209d6c636dd" />
+
+<img width="1289" alt="Screenshot 2025-06-12 at 9 52 25 PM" src="https://github.com/user-attachments/assets/d1df5a97-874b-4d95-a803-e99fa145391f" />
+
+<img width="1283" alt="Screenshot 2025-06-12 at 9 52 58 PM" src="https://github.com/user-attachments/assets/165501cb-73b4-4211-bf53-e71a4b45aba5" />
+
+<img width="1284" alt="Screenshot 2025-06-12 at 9 53 11 PM" src="https://github.com/user-attachments/assets/f83a52c1-e895-4d95-b737-29f980abdf7e" />
+
+<img width="1288" alt="Screenshot 2025-06-12 at 5 44 15 PM" src="https://github.com/user-attachments/assets/218200d2-7231-4080-a1f2-8b43eb925cf0" />
+
+<img width="1263" alt="Screenshot 2025-06-12 at 9 54 34 PM" src="https://github.com/user-attachments/assets/9895db22-924e-4fb4-be59-68aa1de71c31" />
+
+<img width="1289" alt="Screenshot 2025-06-12 at 5 45 02 PM" src="https://github.com/user-attachments/assets/5a0d89c0-aa40-42a6-ad74-7952fac27673" />
+
+<img width="1294" alt="Screenshot 2025-06-12 at 5 42 57 PM" src="https://github.com/user-attachments/assets/a5c6b921-b46a-4e89-b82c-bc416f036019" />
+
+
+This Power BI dashboard analyzes customer behavior and churn patterns using a cleaned Telco dataset. It includes interactive visuals such as churn distribution, tenure segmentation, service usage, and payment preferences. Key insights reveal that customers on month-to-month contracts, with no online security or tech support, and higher monthly charges are more likely to churn.
+
+These insights highlight areas for intervention, such as promoting long-term contracts, bundling services, or providing targeted discounts to high-risk customer segments.
+
+The dashboard empowers business decision-makers to build data-driven customer retention strategies.
 
